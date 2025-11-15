@@ -167,3 +167,5 @@ if __name__ == '__main__':
     app.config['UPLOAD_FOLDER'] = os.path.join('static', 'uploads')
     
     app.run(debug=True) # Set debug=False for production
+    
+# End of app.py
